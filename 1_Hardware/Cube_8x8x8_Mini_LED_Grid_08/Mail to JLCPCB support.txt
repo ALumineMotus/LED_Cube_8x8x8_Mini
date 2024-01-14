@@ -1,0 +1,17 @@
+Dear Madam, Dear Sir,
+
+I just want to inform you about some details about the order.
+
+I will bear the risk and promise not to make complaints about all parts that are under 4mm width.
+
+I acknowledge the pcb has a high risk of breaking due to the narrow space (0.8mm << 4mm ) between cutouts and furthermore due to the small thickness (0.8mm) of the pcb.
+
+And also with the vias which accentuate the risk of breaking.
+
+The board is just one single pcb which is a reticulated part (a grid).
+
+I also know I will pay an extra cost for the long time process due to the numerous areas to drill.
+
+Yours faithfully,
+
+Yohann Duranceau
