@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/yohan/Documents/EAGLE/projects/Cube 8x8x8 Mini/Cube 8x8x8 Mini - Control/Cube_8x8x8_Mini_Control.sch at 02/06/2023 15:31
+
+Qty Value          Device         Package            Parts                  Description               POPULARITY SPICEPREFIX
+4                  R-EU_R1206     R1206              R1, R2, R3, R4         RESISTOR, European symbol 41         R          
+1   ICN2012        ICN2012        SOP16              U5                                                                     
+4   ICN2037        ICN2037        SSOP24-P-150-0.635 U1, U2, U3, U4                                                         
+1   NANO_FOOTPRINT NANO_FOOTPRINT NANO               J1                     Generic Nano Footprint                          
+4   PINHD-1X16     PINHD-1X16     2X16               JP73, JP74, JP75, JP76                                                 
+2   PINHEAD1X4     PINHEAD1X4     2X04               JP77, JP78                                                             

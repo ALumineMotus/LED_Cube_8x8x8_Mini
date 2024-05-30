@@ -13,5 +13,3 @@ The board is just one single pcb which is a reticulated part (a grid).
 I also know I will pay an extra cost for the long time process due to the numerous areas to drill.
 
 Yours faithfully,
-
-Yohann Duranceau
